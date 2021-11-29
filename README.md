@@ -1,12 +1,12 @@
 ### Eai Beleza!!
 
 
-- 🔭 II am currently studying computer science (UNIPAMPA).
+-🎓 Am currently studying computer science (UNIPAMPA).
 
 <div align="center">
   <a href="https://github.com/alegrinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alegrinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alegrinho&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alegrinho&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
